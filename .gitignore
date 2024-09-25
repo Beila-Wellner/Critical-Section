@@ -1,0 +1,51 @@
+# Build directories
+build/
+bin/
+obj/
+debug/
+
+# Executables
+*.exe
+*.out
+
+# Debugging files
+*.dSYM/
+*.pdb
+*.log
+
+# Dependency directories
+.vscode/
+.idea/
+*.user
+*.sln
+.vs/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.bak
+*.orig
+
+# Object files
+*.o
+*.obj
+
+# Compiler cache
+*.gcno
+*.gcda
+
+# Other
+*.class
+*.dll
+*.so
+*.dylib
+*.jar
+*.lib
+*.a
+*.exe.stackdump
+*.class
+
+# Misc
+*.DS_Store
+Thumbs.db
